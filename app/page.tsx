@@ -44,7 +44,6 @@ export default function Home() {
 
   const tracks: Track[] = [
     { title: "Born and Raised", src: "/audio/01 - Born and Raised.mp3", duration: "3:53" },
-    { title: "Hit That Highway", src: "/audio/02 - Hit That Highway.mp3", duration: "3:53" },
     { title: "Baptized in Fire", src: "/audio/03 - Baptized in Fire.mp3", duration: "3:53" },
     { title: "Front Porch Wraparound", src: "/audio/04 - Front Porch Wraparound.mp3", duration: "3:53" },
     { title: "Two Dicks", src: "/audio/05 - Two Dicks.mp3", duration: "2:14" },
